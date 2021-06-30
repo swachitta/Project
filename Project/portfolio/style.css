@@ -1,0 +1,32 @@
+header{
+		padding: 10px;
+		color:#575572;
+		text-align: center;
+	}
+	nav ul li{
+		display: inline-block;
+		padding: 10px;
+		background-color: skyblue;
+		font-family:  catamaran;
+		text-align: right;	
+	}
+	a{	color: white;	}
+
+body { 
+		background-color: #f3f3f3;
+			background-repeat: no-repeat;
+		background-size: cover;
+    background-image: url( "screenshot.png");
+}
+p{
+		padding: 10px;
+		color:white;
+		text-align: center;
+	}
+footer{
+         background-color: lightgray;
+          padding: 1px;
+          text-align: center;
+          color:  gray;
+}
+}
